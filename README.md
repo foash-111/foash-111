@@ -5,10 +5,6 @@
 </h1>
 
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is FO'SH, Welcome To My Github Profile ♥  -->
-<!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
-
-<br/>
-<img align="right" src="https://media4.giphy.com/media/9D7JJAsoOxH1vajS6b/giphy.gif?cid=ecf05e479xot6euzlldn776kf4doyupwku41m7z30uyifi4s&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="190" height="340">
 
 
 
@@ -23,22 +19,13 @@
 ## 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/mahmoud.elfouad)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)](https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mahmoud-elfouad-73b88521b/)](https://www.linkedin.com/in/mahmoud-elfouad-73b88521b/)
 
 
 
-<!-- ### 🔗 Links
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/mayar.mahmoud.10236/)
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/mahmoud-elfouad-73b88521b/)
-<a href="mailto:mahmoudmayar251@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
 
 
-<!-- ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
-<br/>
--->
 
 
 - 🔭 I’m currently working on myself
