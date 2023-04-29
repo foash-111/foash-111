@@ -21,15 +21,15 @@
 
 
 ## 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/mayar.mahmoud.10236/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahmoudmayar251@gmail.com)](mailto:mahmoudmayar251@gmail.com)
+[![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/mahmoud.elfouad)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)](https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)
 
 
 
 <!-- ### 🔗 Links
 [![FaceBook](https://img.shields.io/badge/FaceBook-385490?style=for-the-badge&logo=FaceBook&logoColor=white)](https://www.facebook.com/mayar.mahmoud.10236/)
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayar-mahmoud-01b05a265/)
+[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/mahmoud-elfouad-73b88521b/)
 <a href="mailto:mahmoudmayar251@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 
 
@@ -41,12 +41,12 @@
 -->
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning software engineer track for ALX Africa
+- 👯 I’m looking to collaborate on big projects
+- 🤔 I’m looking for help with alot of people.
+- 💬 Ask me about... nothing ..i don't want to hear your voice .
+- 📫 How to reach me: massege on wats 01122744201...you will find me sleep ..always .
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: sleep ...
 -->
