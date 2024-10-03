@@ -33,7 +33,7 @@
 - 👯 I’m looking to collaborate on big projects
 - 🤔 I’m looking for help with alot of people.
 - 💬 Ask me about... nothing ..i don't want to hear your voice .
-- 📫 How to reach me: massege on wats 01122744201...you will find me sleep ..always .
+- 📫 How to reach me: massege on wats +201122744201...you will find me sleep ..always .
 - 😄 Pronouns: ...
 - ⚡ Fun fact: sleep ...
 -->
